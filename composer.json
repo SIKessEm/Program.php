@@ -1,6 +1,6 @@
 {
     "name": "sikessem/program",
-    "description": "Create a PHP program with SIKessEm tools",
+    "description": "The SIKessEm PHP program",
     "license": "Apache-2.0",
     "keywords": [
         "program",
@@ -21,8 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-          "": "lib",
-          "App\\": "src/"
+          "SIKessEm\\Program\\": "lib/"
         }
     },
     "config": {
