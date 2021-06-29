@@ -23,17 +23,17 @@ Otherwise, you can use the example below in all cases:
 ```php
 <?php
 /**
- * @var string The real path of Program
+ * @var string The real path of program directory
  */
-$program_dir = __DIR__ . DIRECTORY_SEPARATOT;
+$working_directory = __DIR__ . DIRECTORY_SEPARATOT;
 
-$sys = require_once $program_dir . 'init.php';
+$sys = require_once $working_directory . 'init.php';
 
 $sys->import('main');
 
 main($sys);
 ```
-6. Run `php boot.php`
+6. Run your boot file (`boot.php`)
 
 
 ## Requirements
