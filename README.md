@@ -43,7 +43,7 @@ PHP 8.0.0 or above (at least 8.0.7 recommended to avoid potential bugs)
 
 ## Author
 
-SIGUI Kessé Emmanuel | [GitHub](https://github.com/SIKessEm) | [npm](https://npmjs.org/~sikessem) | [Twitter](https://twitter.com/FullDotSIKessEm) | [sikessem@omninf.com](mailto:sikessem@omninf.com) | [sikessem.omninf.com](https://sikessem.omninf.com)
+SIGUI Kessé Emmanuel | [GitHub](https://github.com/SIKessEm) | [npm](https://npmjs.org/~sikessem) | [Twitter](https://twitter.com/SIKessEm_tweets) | [sikessem@omninf.com](mailto:sikessem@omninf.com) | [sikessem.omninf.com](https://sikessem.omninf.com)
 
 
 ## Security Reports
